@@ -1,0 +1,97 @@
+c:\users\dell\documents\visual studio 2010\Projects\Opticalshop\Opticalshop\bin\Debug\Opticalshop.exe
+c:\users\dell\documents\visual studio 2010\Projects\Opticalshop\Opticalshop\bin\Debug\Opticalshop.pdb
+c:\users\dell\documents\visual studio 2010\Projects\Opticalshop\Opticalshop\bin\Debug\Opticalshop.xml
+c:\users\dell\documents\visual studio 2010\Projects\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.AboutBox1.resources
+c:\users\dell\documents\visual studio 2010\Projects\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.LoginForm1.resources
+c:\users\dell\documents\visual studio 2010\Projects\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.MDIParent1.resources
+c:\users\dell\documents\visual studio 2010\Projects\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.Resources.resources
+c:\users\dell\documents\visual studio 2010\Projects\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.SplashScreen1.resources
+c:\users\dell\documents\visual studio 2010\Projects\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.vbproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2010\Projects\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.exe
+c:\users\dell\documents\visual studio 2010\Projects\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.xml
+c:\users\dell\documents\visual studio 2010\Projects\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.pdb
+c:\users\dell\documents\visual studio 2010\Projects\Opticalshop\Opticalshop\bin\Debug\Opticalshop.exe.config
+c:\users\dell\documents\visual studio 2010\Projects\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.Form1.resources
+C:\Users\dell\documents\visual studio 2010\Projects\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.Customer.resources
+C:\Users\dell\documents\visual studio 2010\Projects\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.EditCustomer.resources
+C:\Users\dell\documents\visual studio 2010\Projects\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.AddProduct.resources
+C:\Users\dell\documents\visual studio 2010\Projects\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.EditProduct.resources
+C:\Users\dell\documents\visual studio 2010\Projects\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.AddDoctor.resources
+C:\Users\dell\documents\visual studio 2010\Projects\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.EditDoctor.resources
+C:\Users\dell\documents\visual studio 2010\Projects\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.SaleForm.resources
+C:\Users\dell\documents\visual studio 2010\Projects\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.Receipt.resources
+C:\Users\dell\documents\visual studio 2010\Projects\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.AllReport.resources
+C:\Users\dell\documents\visual studio 2010\Projects\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.ALLDetails.resources
+C:\Users\dell\documents\visual studio 2010\Projects\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.SaleReport.resources
+C:\Users\dell\documents\visual studio 2010\Projects\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.vbprojResolveAssemblyReference.cache
+C:\Users\dell\documents\visual studio 2010\Projects\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.SaleReport2.resources
+C:\Users\dell\documents\visual studio 2010\Projects\Opticalshop\Opticalshop\obj\x86\Debug\RdlCompile.cache
+C:\Users\dell\documents\visual studio 2010\Projects\Opticalshop\Opticalshop\obj\x86\Debug\RdlCompile.compiled
+C:\Users\dell\documents\visual studio 2010\Projects\Opticalshop\Opticalshop\bin\Debug\Opticalshop.exe.manifest
+C:\Users\dell\documents\visual studio 2010\Projects\Opticalshop\Opticalshop\bin\Debug\Opticalshop.application
+C:\Users\dell\documents\visual studio 2010\Projects\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.exe.manifest
+C:\Users\dell\documents\visual studio 2010\Projects\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.application
+F:\BCA\BCA Projects\Optical Shop Project 4\Opticalshop\Opticalshop\bin\Debug\Opticalshop.exe.config
+F:\BCA\BCA Projects\Optical Shop Project 4\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.exe
+F:\BCA\BCA Projects\Optical Shop Project 4\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.xml
+F:\BCA\BCA Projects\Optical Shop Project 4\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.pdb
+F:\BCA\BCA Projects\Optical Shop Project 4\Opticalshop\Opticalshop\bin\Debug\Opticalshop.exe.manifest
+F:\BCA\BCA Projects\Optical Shop Project 4\Opticalshop\Opticalshop\bin\Debug\Opticalshop.application
+F:\BCA\BCA Projects\Optical Shop Project 4\Opticalshop\Opticalshop\bin\Debug\Opticalshop.exe
+F:\BCA\BCA Projects\Optical Shop Project 4\Opticalshop\Opticalshop\bin\Debug\Opticalshop.pdb
+F:\BCA\BCA Projects\Optical Shop Project 4\Opticalshop\Opticalshop\bin\Debug\Opticalshop.xml
+F:\BCA\BCA Projects\Optical Shop Project 4\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.vbprojResolveAssemblyReference.cache
+F:\BCA\BCA Projects\Optical Shop Project 4\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.AboutBox1.resources
+F:\BCA\BCA Projects\Optical Shop Project 4\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.AddDoctor.resources
+F:\BCA\BCA Projects\Optical Shop Project 4\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.AddProduct.resources
+F:\BCA\BCA Projects\Optical Shop Project 4\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.ALLDetails.resources
+F:\BCA\BCA Projects\Optical Shop Project 4\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.AllReport.resources
+F:\BCA\BCA Projects\Optical Shop Project 4\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.Customer.resources
+F:\BCA\BCA Projects\Optical Shop Project 4\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.EditCustomer.resources
+F:\BCA\BCA Projects\Optical Shop Project 4\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.EditDoctor.resources
+F:\BCA\BCA Projects\Optical Shop Project 4\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.EditProduct.resources
+F:\BCA\BCA Projects\Optical Shop Project 4\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.Form1.resources
+F:\BCA\BCA Projects\Optical Shop Project 4\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.LoginForm1.resources
+F:\BCA\BCA Projects\Optical Shop Project 4\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.MDIParent1.resources
+F:\BCA\BCA Projects\Optical Shop Project 4\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.Resources.resources
+F:\BCA\BCA Projects\Optical Shop Project 4\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.Receipt.resources
+F:\BCA\BCA Projects\Optical Shop Project 4\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.SaleForm.resources
+F:\BCA\BCA Projects\Optical Shop Project 4\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.SaleReport.resources
+F:\BCA\BCA Projects\Optical Shop Project 4\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.SaleReport2.resources
+F:\BCA\BCA Projects\Optical Shop Project 4\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.SplashScreen1.resources
+F:\BCA\BCA Projects\Optical Shop Project 4\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.vbproj.GenerateResource.Cache
+F:\BCA\BCA Projects\Optical Shop Project 4\Opticalshop\Opticalshop\obj\x86\Debug\RdlCompile.cache
+F:\BCA\BCA Projects\Optical Shop Project 4\Opticalshop\Opticalshop\obj\x86\Debug\RdlCompile.compiled
+F:\BCA\BCA Projects\Optical Shop Project 4\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.exe.manifest
+F:\BCA\BCA Projects\Optical Shop Project 4\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.application
+F:\BCA\BCA Projects\Optical Shop Project 4\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.About_Me.resources
+D:\BCA\BCA Projects\Optical Shop Project 4\Opticalshop\Opticalshop\bin\Debug\Opticalshop.exe.config
+D:\BCA\BCA Projects\Optical Shop Project 4\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.exe
+D:\BCA\BCA Projects\Optical Shop Project 4\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.xml
+D:\BCA\BCA Projects\Optical Shop Project 4\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.pdb
+D:\Opticalshop\Opticalshop\bin\Debug\Opticalshop.exe.config
+D:\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.exe
+D:\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.xml
+D:\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.pdb
+D:\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.vbproj.AssemblyReference.cache
+D:\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.About_Me.resources
+D:\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.AboutBox1.resources
+D:\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.AddDoctor.resources
+D:\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.AddProduct.resources
+D:\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.ALLDetails.resources
+D:\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.AllReport.resources
+D:\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.Customer.resources
+D:\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.EditCustomer.resources
+D:\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.EditDoctor.resources
+D:\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.EditProduct.resources
+D:\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.Form1.resources
+D:\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.LoginForm1.resources
+D:\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.MDIParent1.resources
+D:\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.Resources.resources
+D:\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.Receipt.resources
+D:\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.SaleForm.resources
+D:\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.SaleReport.resources
+D:\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.SaleReport2.resources
+D:\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.SplashScreen1.resources
+D:\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.vbproj.GenerateResource.cache
+D:\Opticalshop\Opticalshop\obj\x86\Debug\Opticalshop.vbproj.CoreCompileInputs.cache
